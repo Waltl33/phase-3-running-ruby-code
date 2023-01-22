@@ -19,5 +19,16 @@ def add num1, num2
     puts num2
     num1 + num2
 end
+#app.rb
+#ruby app.rb
+puts "Hello World!"
 
-puts add(1,3) + add(2,2)
+#puts add(1,3) + add(2,2)
+#app.rb
+#ruby app.rb
+print "Pass this test, please."
+
+#add
+#ruby app.rb
+
+p [1,2,3]
